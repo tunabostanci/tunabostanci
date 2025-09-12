@@ -13,8 +13,9 @@
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunabostanci&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tunabostanci&layout=compact&theme=tokyonight&hide=HTML,CSS,JavaScript&langs_count=10" />
 </p>
+
 
 ## 🌍 Beni Takip Et!  
 
