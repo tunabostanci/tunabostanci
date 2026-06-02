@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Computer Vision,Docker Compose, Bash, Linux(Ubuntu)
+- 🔭 I’m currently working on Docker Compose, Bash, Linux(Ubuntu)
 - 🌱 I’m currently learning React,Bash,PostgreSQL,Docker,Systems Engineering
 - 😄 Pronouns: he/him
 - I am studying Computer Engineering in Baskent University
